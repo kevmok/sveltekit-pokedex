@@ -17,7 +17,7 @@ User should be able to:
 
 ### Demo
 
-[Website Demo](https://sveltekit-pokedex.vercel.app/)
+[Website Demo](https://sveltekit-pokedex-rose.vercel.app/)
 
 ## Screenshots
 
